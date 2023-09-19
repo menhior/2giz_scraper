@@ -9,10 +9,6 @@ addresses_list = []
 phones_list = []
 
 for i in range(1, 45):
-    #url = "https://2gis.az/ru/baku/search/Ювелирные магазины и салоны/rubricId/391/page/" + str(i) + "?m=49.81882%2C40.389465%2F12.42"
-    #url = 'https://2gis.az/ru/baku/search/%D0%91%D0%B8%D0%B6%D1%83%D1%82%D0%B5%D1%80%D0%B8%D1%8F/rubricId/1182/page/' + str(i) + '?m=49.97815%2C40.354968%2F11.39'
-    #url = 'https://2gis.az/ru/baku/search/brilyant/page/' + str(i) + '?m=50.329836%2C40.415891%2F10.36'
-    #url = 'https://2gis.az/ru/baku/search/q%C4%B1z%C4%B1l/page/' + str(i) + '?m=50.329836%2C40.415891%2F10.36'
     url = 'https://2gis.az/ru/baku/search/s%C4%B1r%C4%9Falar/page/' + str(i) + '?m=50.329836%2C40.415891%2F10.36'
     print('URL page: \n' + url )
 
