@@ -1,0 +1,32 @@
+1695125267268	geckodriver	INFO	Listening on 127.0.0.1:59388
+1695125270313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Z5DFF~1.ZEY\\AppData\\Local\\Temp\\rust_mozprofile1RgFgg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695125270635	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695125270696	Marionette	INFO	Listening on port 59405
+WebDriver BiDi listening on ws://127.0.0.1:59389
+Read port: 59405
+1695125270879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59389/devtools/browser/8c0ab854-5b59-4ec1-886d-5920daaaab4d
+JavaScript warning: https://d-assets.2gis.ru/app.96a83dcd7a80dbb971fa.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1695125277825	Marionette	INFO	Stopped listening on port 59405
+JavaScript warning: https://d-assets.2gis.ru/app.96a83dcd7a80dbb971fa.js, line 1: Script terminated by timeout at:
+66471/o/c/t<@https://d-assets.2gis.ru/app.96a83dcd7a80dbb971fa.js:1:854088
+
+Dynamically enable window occlusion 1
+1695125280706	geckodriver	INFO	Listening on 127.0.0.1:59486
+1695125283734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Z5DFF~1.ZEY\\AppData\\Local\\Temp\\rust_mozprofilexfPA73"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695125284021	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695125284077	Marionette	INFO	Listening on port 59495
+WebDriver BiDi listening on ws://127.0.0.1:59487
+Read port: 59495
+1695125284235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59487/devtools/browser/9a4d1514-4f7f-4ab5-99f7-f310f169cced
+1695125290282	Marionette	INFO	Stopped listening on port 59495
+Dynamically enable window occlusion 1
